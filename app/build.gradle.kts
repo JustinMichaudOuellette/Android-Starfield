@@ -42,5 +42,5 @@ android {
 }
 
 dependencies {
-  implementation(libs.androidx.activity.compose)
+  implementation("androidx.core:core-ktx:1.19.0")
 }
